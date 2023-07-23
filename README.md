@@ -1,0 +1,3 @@
+# Resume_Builder
+Resume Builder is a web app that generates professional resumes using profile data. Built with HTML, CSS, JS (Frontend), and Node.js with Express and Express-Ejs-Layout (Backend), it offers customizable sections, real-time preview, template selection, and export options. Simplify resume creation and showcase coding skills effectively.
+The Resume Builder project is a web application that enables users to create, customize, and download professional resumes effortlessly. It aims to provide a user-friendly interface that allows individuals to showcase their skills, experiences, and qualifications in an attractive and organized manner. The application allows users to fill in their details, select templates, and customize various sections of their resume
